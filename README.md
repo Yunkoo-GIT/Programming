@@ -1,4 +1,4 @@
-# Project
+# Python
 Python programming
 
 python으로 만든 첫번째 프로그램
