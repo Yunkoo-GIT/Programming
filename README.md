@@ -1,8 +1,8 @@
 # Project
 
 python으로 만든 첫번째 프로그램
-==============================
-
+-------------------------------
+``` c
 print("성적처리 프로그램")
 print("=================")
 
@@ -68,3 +68,4 @@ for i in range(number) :
                   math_score[j], "        ", eng_score[j], "        ", total_score[j], "        ",
                   avg_score[j], "        ", grade[j])
     
+```
